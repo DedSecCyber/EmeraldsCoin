@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# EmeraldsCoin by ExpertToken
+       เนื่องจากระบบการเงินในปัจจุบัน มีข้อบกพร่องหลายอย่างทำให้มีปัญหาในการใช้เงินเพื่อแลกเปลี่ยน อย่างเช่น ปัญหาเงินปลอม, ปัญหาด้านความปลอดภัย, เงินฟืด, เงินเฟ้อ, ค่าธรรมเนียมการทำธุรกรรมที่แพง ปัญหาเหล่านี้ล้วนเป็นปัญหาที่ระบบเงินแบบเดิมยังแก้ปัญหาไม่ได้ ปัจจุบัน ได้มีเทคโนโลยีการทำบัญชีใหม่ ที่เรียกว่า BlockChain และเทคโนโลยีสกุลเงินดิจิตอลเข้ารหัส(Cryptocurrency) ทำให้ระบบการเงินมีความปลอดภัย ใช้บริการทางการเงินได้ในค่าธรรมเนียมที่ต่ำ และสามารถแก้ปัญหาเรื่องเงินปลอม เงินฟืดและ เงินเฟ้อได้
 
-You can use the [editor on GitHub](https://github.com/DedSecCyber/EmeraldsCoin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+      ExpertToken เป็นทีมผู้พัฒนาโปรแกรมที่สนใจ และเห็นประโยชน์ของการนำเทคโนโลยี BlockChain มาใช้ประโยชน์ ทั้งในด้านเศรษฐกิจ การงิน ด้านการพัฒนาโปรแกรม และความปลอดภัยข้องข้อมูล
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DedSecCyber/EmeraldsCoin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      พวกเราได้เล็งเห็น ถึงประโยชน์ของการใช้สกุลเงินดิจิตอล เราจึงได้ริเริ่มพัฒนาสกุลเงินดิจิตอลที่สามารถนำมาใช้ซื้อขายแลกเปลี่ยนได้จริง นั้นก็คือ EmeraldsCoin(ERC) ที่จะทำให้การทำธุรกรรมทางการได้สะดวกรวดเร็ว และจ่ายค่าธรรมเนียมได้ถูกกว่าการทำธุรกรรมกับธนาคารปกติ
